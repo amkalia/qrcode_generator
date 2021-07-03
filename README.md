@@ -1,3 +1,3 @@
 # QRCode Generator
 
-Provide a text/url to generate a QRCode.
+Run the file and provide content to generate a QRCode.
